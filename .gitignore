@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+
+# Runtime / local files
+record/
+*.log
+
+# Whisper / AI model cache
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+# Python cache
+.pytest_cache/
+.mypy_cache/
+model/
